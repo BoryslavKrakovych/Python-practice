@@ -1,9 +1,0 @@
-def log(b,a):
-    import math
-    return math.log(b,a)
-def ln(b):
-    import math
-    return math.log(b)
-def lg(b):
-    import math
-    return math.log(b,10)
